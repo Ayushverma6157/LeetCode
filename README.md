@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayushverma6157/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -14,4 +15,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayushverma6157/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
