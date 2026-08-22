@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayushverma6157/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
