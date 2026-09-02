@@ -10,6 +10,7 @@
 | [1701-average-waiting-time](https://github.com/Ayushverma6157/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayushverma6157/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayushverma6157/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ayushverma6157/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayushverma6157/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ayushverma6157/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
