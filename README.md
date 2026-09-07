@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ayushverma6157/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1701-average-waiting-time](https://github.com/Ayushverma6157/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayushverma6157/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -26,11 +27,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayushverma6157/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushverma6157/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ayushverma6157/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayushverma6157/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Bit Manipulation
@@ -61,4 +64,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Ayushverma6157/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
