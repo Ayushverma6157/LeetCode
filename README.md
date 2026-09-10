@@ -77,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Ayushverma6157/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
