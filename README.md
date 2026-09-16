@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ayushverma6157/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1701-average-waiting-time](https://github.com/Ayushverma6157/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
@@ -86,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
