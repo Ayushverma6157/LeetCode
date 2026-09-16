@@ -10,6 +10,7 @@
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1046-last-stone-weight](https://github.com/Ayushverma6157/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ayushverma6157/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1701-average-waiting-time](https://github.com/Ayushverma6157/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayushverma6157/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -108,4 +109,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/Ayushverma6157/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
