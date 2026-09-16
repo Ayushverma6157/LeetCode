@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0198-house-robber](https://github.com/Ayushverma6157/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1046-last-stone-weight](https://github.com/Ayushverma6157/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayushverma6157/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@
 | [0070-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Ayushverma6157/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Ayushverma6157/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -115,4 +118,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/Ayushverma6157/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
