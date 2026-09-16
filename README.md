@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/Ayushverma6157/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1046-last-stone-weight](https://github.com/Ayushverma6157/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -97,6 +98,7 @@
 | [0091-decode-ways](https://github.com/Ayushverma6157/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Ayushverma6157/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -122,8 +124,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
