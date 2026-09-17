@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0039-combination-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0198-house-robber](https://github.com/Ayushverma6157/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -149,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
