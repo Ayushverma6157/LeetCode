@@ -96,6 +96,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ayushverma6157/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0091-decode-ways](https://github.com/Ayushverma6157/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,8 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
