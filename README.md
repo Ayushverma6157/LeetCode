@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushverma6157/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Ayushverma6157/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ayushverma6157/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayushverma6157/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -97,6 +98,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ayushverma6157/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0091-decode-ways](https://github.com/Ayushverma6157/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushverma6157/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushverma6157/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +165,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushverma6157/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
