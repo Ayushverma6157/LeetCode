@@ -36,6 +36,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Ayushverma6157/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Ayushverma6157/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -166,4 +167,8 @@
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushverma6157/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Ayushverma6157/LeetCode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
