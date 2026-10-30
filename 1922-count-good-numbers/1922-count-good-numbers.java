@@ -8,11 +8,7 @@ class Solution {
         return ans;
         }
     public int countGoodNumbers(long n) {
-        long even=(n+1)/2;
-        long odd=n/2;
-        long e=pow(5,even);
-        long o=pow(4,odd);
-        int aka=(int)((o*e)%MOD);
-        return aka;
+        int ans=(int)((pow(5,(n+1)/2)*pow(4,n/2))%MOD);
+        return ans;
     }
 }
