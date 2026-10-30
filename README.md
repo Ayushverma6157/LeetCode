@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Ayushverma6157/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/Ayushverma6157/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0198-house-robber](https://github.com/Ayushverma6157/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0321-create-maximum-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -55,6 +56,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Ayushverma6157/LeetCode/tree/main/0078-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ayushverma6157/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/Ayushverma6157/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
