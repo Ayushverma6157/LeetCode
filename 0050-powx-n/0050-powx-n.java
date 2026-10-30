@@ -1,11 +1,18 @@
 class Solution {
-    public double pon(double x,long n){
-        if(n==0) return 1;
-        double half=pon(x,n/2);
-        if(n%2==0) return half*half;
-        else return half*half*x;
+    public double solve(double x,long pow){
+        if(pow==0) return 1;
+        double ans=solve(x,pow/2);
+        ans=ans*ans;
+        if(pow%2!=0) ans=ans*x;
+        return ans;
     }
     public double myPow(double x, int n) {
-        return (n<1)?(1/pon(x,Math.abs(n))):pon(x,n);
+        if(n==0) return 1;
+        long power=n;
+        double ans;
+        ans=solve(x,power);
+        if(n<0) return 1.0/ans;
+        return ans;
+        
     }
 }
