@@ -6,7 +6,6 @@ class Solution {
     }
     public List<String> letterCombinations(String digits) {
         List<String> ans=new ArrayList<>();
-        System.out.println((digits.charAt(0)-48)-2);
         String [] mapped={"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         solve(digits,mapped,ans,"",0);
         return ans;
