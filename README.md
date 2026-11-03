@@ -109,6 +109,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ayushverma6157/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0091-decode-ways](https://github.com/Ayushverma6157/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Ayushverma6157/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushverma6157/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
@@ -118,6 +119,7 @@
 | [0064-minimum-path-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ayushverma6157/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Ayushverma6157/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Ayushverma6157/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Ayushverma6157/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Ayushverma6157/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -176,6 +178,7 @@
 | [0040-combination-sum-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Ayushverma6157/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Ayushverma6157/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
