@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ayushverma6157/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ayushverma6157/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0091-decode-ways](https://github.com/Ayushverma6157/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ayushverma6157/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayushverma6157/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -169,6 +171,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushverma6157/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Ayushverma6157/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Ayushverma6157/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Ayushverma6157/LeetCode/tree/main/0078-subsets/) | Medium |
